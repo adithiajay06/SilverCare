@@ -1,8 +1,5 @@
 # SilverCare
 “AI-powered elderly care system with voice assistance, fall detection, and caregiver monitoring”
-# SilverCare 
-
-SilverCare is an AI-powered elderly care application designed to ensure safety, health, and independence for senior citizens.
 
 ## Features
 - Voice-based medicine reminders
@@ -32,7 +29,7 @@ SilverCare provides a voice-first, AI-driven system that ensures real-time monit
 
 
 ## Demo Video
-(Add link here)
+https://drive.google.com/file/d/10LrPweu5UbGB2RuRvp3IDVfvA1Mp79Ik/view?usp=drivesdk
 
 ##  Live Prototype
 https://id-preview--ee10150e-abe3-4957-9871-d5c206749208.lovable.app/
